@@ -31,6 +31,9 @@ Giải nén game vào một thư mục và bật `Run_Bro.exe` lên để chơi.
 
 ### 0.b Cách 2: Bao gồm code và có thể biên dịch
 1. Clone repo này về máy hoặc chọn **Code** -> **Download ZIP**.
+
+![Screenshot 2024-08-15 074744](https://github.com/user-attachments/assets/477cc448-a4ad-4f72-9fe1-f4867e01cc4a)
+
 2. Yêu cầu có **Visual Studio 2022 Community** và gói C++ cần thiết.
 3. Mở file `Run_Bro.sln` để tự động mở dự án trong Visual Studio.
 4. Chọn **Local Windows Debugger** để khởi động game (chọn **Debug**, **x64**).
