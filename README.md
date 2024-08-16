@@ -26,7 +26,7 @@
 ## 0. Cách tải game
 
 ### 0.a Cách 1: Không bao gồm code
-Tải game (được nén thành `.zip`) tại link sau: [[link tải game](https://github.com/khoinguyencode/Run_Bro/releases/tag/Run_Bro)](#)  
+Tải game (được nén thành `.zip`) tại link sau: [[link tải game](https://github.com/khoinguyencode/Run_Bro/releases/tag/Run_Bro)] 
 Giải nén game vào một thư mục và bật `Run_Bro.exe` lên để chơi. Cách này tiết kiệm bộ nhớ và thời gian tải.
 
 ### 0.b Cách 2: Bao gồm code và có thể biên dịch
