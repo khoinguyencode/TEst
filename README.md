@@ -1,7 +1,7 @@
 # Run Bro! - Khoi Nguyen Code
 
 ## Giới thiệu bản thân:
-Họ tên: Nguyễn Tấn Khôi.
+Họ tên: Nguyễn Tấn Khôi
 MSSV: 22025526
 Lớp: INT2215 70
 
