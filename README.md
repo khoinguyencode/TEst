@@ -1,9 +1,11 @@
 # Run Bro! - Khoi Nguyen Code
 
 ## Giới thiệu bản thân:
-Họ tên: 
-MSSV: 
-Lớp: 
+Họ tên: Nguyễn Tấn Khôi.
+MSSV: 22025526
+Lớp: INT2215 70
+
+## Video demo :
 
 ## Giới thiệu game
 **Run Bro!** Hãy chạy thật nhanh để không bị những cái gai sắc nhọn đến từ phía bên trái của bạn đâm vào. Trong lúc cố gắng chạy để thoát khỏi những cái gai, bạn sẽ đối mặt với quái vật và các cạm bẫy nguy hiểm, đòi hỏi sự khéo léo và chiến lược để vượt qua.
@@ -68,7 +70,7 @@ Trong game này, mục tiêu của người chơi không phải là đạt đế
 ## 6. Nguồn tham khảo
 - Game được lấy ý tưởng từ game **Contra** và **Geometry Dash**.
 - Tham khảo từ [Lazy Foo](http://lazyfoo.net/tutorials/SDL/) (sử dụng các hàm như `checkCollision`, `openFont`, `setTileType`, `time`).
-- Video hướng dẫn trên [YouTube](https://www.youtube.com/playlist?list=PL2RPjWnJduNmXHRYwdtublIPdlqocBoLS).
+- Cách chia file entity, renderwindow trên [YouTube](https://www.youtube.com/playlist?list=PL2RPjWnJduNmXHRYwdtublIPdlqocBoLS).
 - Nhân vật, quái, tileset, music, và sfx trên trang itch io
 - Cách vẽ map và thêm quái vật: [YouTube](https://www.youtube.com/watch?v=rLWlnPwR1uI&list=PL-K0viiuJ2RctP5nlJlqmHGeh66-GOZR_&index=14).
 
