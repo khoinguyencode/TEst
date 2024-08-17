@@ -44,7 +44,8 @@ Chờ một chút để menu hiện ra, click vào nút có biểu tượng "Pla
 
 ## 2. Các thành phần trong game
 - **Player:**
-![Screenshot 2024-08-17 095013](https://github.com/user-attachments/assets/bd8b4333-fe40-43f3-8697-114e280cdb03)
+![nhanvat](https://github.com/user-attachments/assets/f45c3bb2-56a1-4574-b5d1-7271f9791608)
+
 
 
 - **Monster:** Hình ảnh quái vật.
