@@ -44,7 +44,8 @@ Chờ một chút để menu hiện ra, click vào nút có biểu tượng "Pla
 
 ## 2. Các thành phần trong game
 - **Player:**
-- ![DarkSamurai](https://github.com/user-attachments/assets/d780fb4e-d1f4-486e-b931-382027001dfa)
+![Screenshot 2024-08-17 095013](https://github.com/user-attachments/assets/bd8b4333-fe40-43f3-8697-114e280cdb03)
+
 
 - **Monster:** Hình ảnh quái vật.
 - **Score:** Điểm số hiện tại.
