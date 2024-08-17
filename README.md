@@ -30,19 +30,22 @@ Tải game (được nén thành `.zip`) tại link sau: [[link tải game](http
 Giải nén game vào một thư mục và bật `Run_Bro.exe` lên để chơi. Cách này tiết kiệm bộ nhớ và thời gian tải.
 
 ### 0.b Cách 2: Bao gồm code và có thể biên dịch
-1. Clone repo này về máy hoặc chọn **Code** -> **Download ZIP**.
+Bước 1. Clone repo này về máy hoặc chọn **Code** -> **Download ZIP**.
 
-![Screenshot 2024-08-15 074744](https://github.com/user-attachments/assets/477cc448-a4ad-4f72-9fe1-f4867e01cc4a)
+![Screenshot 2024-08-16 211340](https://github.com/user-attachments/assets/6652e23c-f6d0-493a-9a0f-ab78f1dcd102)
 
-2. Yêu cầu có **Visual Studio 2022 Community** và gói C++ cần thiết.
-3. Mở file `Run_Bro.sln` để tự động mở dự án trong Visual Studio.
-4. Chọn **Local Windows Debugger** để khởi động game (chọn **Debug**, **x64**).
+Bước 2. Yêu cầu có **Visual Studio 2022 Community** và gói C++ cần thiết.
+Bước 3. Mở file `Run_Bro.sln` để tự động mở dự án trong Visual Studio.
+Bước 4. Chọn **Local Windows Debugger** để khởi động game (chọn **Debug**, **x64**).
 
 ## 1. Bắt đầu game
 Chờ một chút để menu hiện ra, click vào nút có biểu tượng "Play" để bắt đầu chơi game. Bấm vào nút có biểu tượng "Exit" nếu muốn thoát game.
+![Screenshot 2024-08-17 093725](https://github.com/user-attachments/assets/69b280eb-55f3-4d14-b194-88a2d4ee12ba)
 
 ## 2. Các thành phần trong game
-- **Player:** Hình ảnh nhân vật chính.
+- **Player:**
+- ![DarkSamurai](https://github.com/user-attachments/assets/d780fb4e-d1f4-486e-b931-382027001dfa)
+
 - **Monster:** Hình ảnh quái vật.
 - **Score:** Điểm số hiện tại.
 - **Best score:** Điểm cao nhất bạn đạt được.
