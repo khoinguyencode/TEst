@@ -43,17 +43,17 @@ Chờ một chút để menu hiện ra, click vào nút có biểu tượng "Pla
 ![Screenshot 2024-08-17 093725](https://github.com/user-attachments/assets/69b280eb-55f3-4d14-b194-88a2d4ee12ba)
 
 ## 2. Các thành phần trong game
-- **Player:**
-![nhanvat](https://github.com/user-attachments/assets/f45c3bb2-56a1-4574-b5d1-7271f9791608)
-
-
-
-- **Monster:** Hình ảnh quái vật.
-- **Score:** Điểm số hiện tại.
-- **Best score:** Điểm cao nhất bạn đạt được.
-- **Tile map:** Kỹ thuật tilemap dùng để tạo phần level cho bản đồ.
-- **Nút restart:** Dùng để chơi lại ván mới.
-- **Nút exit:** Dùng để thoát trò chơi.
+- **Player:** ![nhanvat](https://github.com/user-attachments/assets/f45c3bb2-56a1-4574-b5d1-7271f9791608) : người chơi
+- **Monster:** ![2](https://github.com/user-attachments/assets/e8d87b5e-ffaa-4407-b6ea-711e9a1f6480) : quái vật
+- **Score:** ![Screenshot 2024-08-17 095604](https://github.com/user-attachments/assets/b7d1e882-7748-4883-ab5a-6d17c8ee49cd) : điểm số trong lượt chơi hiện tại
+- **Best score:** ![Screenshot 2024-08-17 095557](https://github.com/user-attachments/assets/c586a3b1-e93f-489c-a4cc-d94591fc6a7f) : điểm số cao nhất mà người chơi đạt được
+- **Tile map:**: kĩ thuật tile map được sử dụng để vẽ map (vẽ các tile tường và nền)
+![Screenshot 2024-08-17 095738](https://github.com/user-attachments/assets/58c26a16-96ba-40a2-b77c-75b357791d99)
+- **Nút play:** ![Screenshot 2024-08-17 095849](https://github.com/user-attachments/assets/4b946ee4-d6f3-4daa-9085-6bb1fcc25e65) : bắt đầu trò chơi
+- **Nút restart:**  :![Screenshot 2024-08-17 095909](https://github.com/user-attachments/assets/1ffb440c-cf69-47d9-a04e-f464dbfe334d) : dùng để chơi lại ván mới.
+- **Nút exit:** ![Screenshot 2024-08-17 095858](https://github.com/user-attachments/assets/1ef73578-31e8-432c-a14d-2affa9848a44) : dùng để thoát trò chơi
+- **Bố cục game cơ bản**
+![Screenshot 2024-08-17 095624](https://github.com/user-attachments/assets/dfa09062-15a5-4b60-8484-530dc31712f7)
 
 ## 3. Cách chơi
 Bạn cần phải cố gắng chạy và vượt quá các chướng ngại vật trên đường, đánh bại hoặc cố gắng né các con quái vật trên đường đi để có thể chạy tiếp về phía trước và thoát khỏi đống gai chết chóc đang đuổi theo bạn.
